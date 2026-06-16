@@ -1,0 +1,1 @@
+{"version":3,"file":"EvaluationResult.d.ts","sourceRoot":"","sources":["EvaluationResult.tsx"],"names":[],"mappings":"AAAA,OAAO,EAAE,gBAAgB,IAAI,oBAAoB,EAAE,MAAM,oBAAoB,CAAA;AAE7E,UAAU,qBAAqB;IAC7B,gBAAgB,EAAE,oBAAoB,GAAG,IAAI,CAAA;IAC7C,SAAS,EAAE,OAAO,CAAA;CACnB;AAED,wBAAgB,gBAAgB,CAAC,EAAE,gBAAgB,EAAE,SAAS,EAAE,EAAE,qBAAqB,+BA2KtF"}

@@ -11,8 +11,8 @@ export async function extractFirstThreeLines(file: File): Promise<string> {
   const textContent = await firstPage.getTextContent()
 
   const lines = textContent.items
-    .filter((item): item is pdfjsLib.TextItem => 'str' in item)
-    .map((item) => item.str)
+    .filter((item: any) => 'str' in item)
+    .map((item: any) => item.str)
     .join('')
     .split('\n')
     .filter((line) => line.trim())
